@@ -18,8 +18,8 @@ Currently working and studying on Django projects, personal automation scripts, 
 | Project | Description | Link |
 | ------- | ----------- | ---- |
 | **Sambo Club Site** | Django web app for training schedules, subscriptions & notifications | [Repo](https://github.com/Bigmony23/Bigmony23) |
-| **Automation Scripts** | Python scripts to automate repetitive tasks and improve productivity | [Repo](https://github.com/Bigmony23) |
 | **Portfolio** | Showcase of personal mini-projects and experiments | Coming soon |
+| **News blog ** | Blog site about news with crud personal profile | [Repo](https://github.com/Bigmony23/News_blog_mohirdev) |
 
 ---
 

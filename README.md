@@ -19,15 +19,16 @@ Currently working and studying on Django projects, personal automation scripts, 
 | ------- | ----------- | ---- |
 | **Sambo Club Site** | Django web app for training schedules, subscriptions & notifications | [Repo](https://github.com/Bigmony23/Bigmony23) |
 | **Portfolio** | Showcase of personal mini-projects and experiments | Coming soon |
-| **News blog ** | Blog site about news with crud personal profile | [Repo](https://github.com/Bigmony23/News_blog_mohirdev) |
+| **News blog** | Blog site about news with crud personal profile | [Repo](https://github.com/Bigmony23/News_blog_mohirdev) |
 
 ---
 
 ### 📈 GitHub Stats
 ![Diyorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bigmony23&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigmony23&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bigmony23&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bigmony23&theme=dark)
 ![Visitor Count](https://profile-counter.glitch.me/Bigmony23/count.svg)
+
 
 ---
 

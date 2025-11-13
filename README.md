@@ -27,7 +27,7 @@ Currently working and studying on Django projects, personal automation scripts, 
 ![Diyorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bigmony23&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigmony23&layout=compact&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Bigmony23&theme=dark)
-![Visitor Count](https://profile-counter.glitch.me/Bigmony23/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Bigmony23}/count.svg)
 
 
 ---
@@ -35,8 +35,6 @@ Currently working and studying on Django projects, personal automation scripts, 
 ### 📫 Connect with Me
 - Email: diyorbeke41@gmail.com 
 - Telegram: (https://t.me/diyorbek9123)
-- Twitter: 
-
 ---
 
 ### 💡 Fun Fact
